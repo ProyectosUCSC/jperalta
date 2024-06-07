@@ -1,0 +1,34 @@
+
+#best-way{
+    width: auto;
+    background-image: url(/git_asess/images/hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px; 
+    padding: 175px;
+    color: white;
+    font-family: Verdana;
+    max-width: 1260px;
+}
+
+
+.text{
+margin-left: -50px;
+}
+
+.text h2{
+width: 500px;
+}
+
+.text p{
+    display: flex;
+    width: 610px;
+    font-size: 25px;
+
+}
+
+#img1{
+    margin-top: -360px;
+    margin-left: 600px;
+    width: 60%;
+}
