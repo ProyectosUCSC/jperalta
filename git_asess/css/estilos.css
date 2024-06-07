@@ -33,11 +33,6 @@ width: 500px;
 
 
 
-
-
-
-
-
 #About-our-School{
     font-family: Verdana;
     color: black;
@@ -57,3 +52,39 @@ width: 500px;
     .text2 h2{
         width: 500px;
         }
+
+
+
+        #img2{
+            margin-left: 80px;
+        }
+
+
+    #Admission-open{
+    font-family: Verdana;
+    color: black;
+    }
+
+
+    .text3{
+        margin-top: 280px;
+    margin-left: 100px;
+    width: 980px;
+     }
+            
+    .text3 h2{
+    width: 500px;
+    }
+
+     .text3 p{
+    display: flex;
+    width: 720px;
+    font-size: 25px;
+            
+     }
+
+     #img3{
+        margin-top: -360px;
+        margin-left: 900px;
+        width: 35%;
+    }
